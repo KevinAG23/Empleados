@@ -31,12 +31,11 @@ Mostrar Información: Al seleccionar la opción correspondiente, se mostrará la
 Después de mostrar la información, el usuario puede optar por repetir el proceso para otro empleado o gerente, o salir del programa.
 
 Ejecucion:
-
-    Clonar el repositorio.
-    Abrir Visual Studio:
-    Abrir Archivo Program.cs:
-    Compilar y Ejecutar: Haz clic en "Iniciar" (botón verde) o presiona F5 para compilar y ejecutar la aplicación.
-    Interactuar con el Menú: • La aplicación te mostrará un menú inicial. • Ingresa 1 para ingresar información de un empleado o 2 para un gerente.
-    Ingresar Datos: • Sigue las instrucciones para ingresar nombre, salario y, para un gerente, el departamento.
-    Mostrar Información: • Después de ingresar datos, se mostrará un menú con opciones para mostrar información del empleado o gerente.
-    Repetir o Salir: • Puedes repetir el proceso para ingresar información de otro empleado o gerente. • Ingresa 3 para salir del programa.
+   1.- Clonar el repositorio.
+   2.-Abrir Visual Studio:
+   3.-Abrir Archivo Program.cs:
+   4.-Compilar y Ejecutar: Haz clic en "Iniciar" (botón verde) o presiona F5 para compilar y ejecutar la aplicación.
+   5.-Interactuar con el Menú: • La aplicación te mostrará un menú inicial. • Ingresa 1 para ingresar información de un empleado o 2 para un gerente.
+   6.-Ingresar Datos: • Sigue las instrucciones para ingresar nombre, salario y, para un gerente, el departamento.
+   7.-Mostrar Información: • Después de ingresar datos, se mostrará un menú con opciones para mostrar información del empleado o gerente.
+   8.-Repetir o Salir: • Puedes repetir el proceso para ingresar información de otro empleado o gerente. • Ingresa 3 para salir del programa.
